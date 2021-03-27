@@ -12,7 +12,7 @@
 ![基建改2](https://user-images.githubusercontent.com/41233085/111906434-8d430900-8a8b-11eb-8cb4-3a660c5fe24a.png)
 
 ## 作战
->~~彩6联动期间，周一、周四、周六、周日 刷OD-8 ，其它时间刷 OD-7 ~~
+>~~彩6联动期间，周一、周四、周六、周日 刷OD-8 ，其它时间刷 OD-7~~
 >
 >![彩6联动-关卡](https://user-images.githubusercontent.com/41233085/111906673-a26c6780-8a8c-11eb-8e36-801df50e7d56.png)
 
