@@ -1,6 +1,7 @@
 # AutoJs_Arknights
 我的《明日方舟》收菜日常 - 自用脚本 - 安卓手机 - Auto.Js  
 ===========================
+视频演示地址：https://www.bilibili.com/video/BV13V411e7eQ?from=search&seid=13344823194853301640
 
 说明：大部分为`识图点击`，小部分是`固定坐标点击`，`mrfz.rar`为 `识图/找图` 所需的图片的压缩包
 ****
@@ -11,7 +12,7 @@
 ![基建改2](https://user-images.githubusercontent.com/41233085/111906434-8d430900-8a8b-11eb-8cb4-3a660c5fe24a.png)
 
 ## 作战
->彩6联动期间，周一、周四、周六、周日 刷OD-8 ，其它时间刷 OD-7
+>~~彩6联动期间，周一、周四、周六、周日 刷OD-8 ，其它时间刷 OD-7 ~~
 >
 >![彩6联动-关卡](https://user-images.githubusercontent.com/41233085/111906673-a26c6780-8a8c-11eb-8e36-801df50e7d56.png)
 
