@@ -1,7 +1,7 @@
 # AutoJs_Arknights
 我的《明日方舟》收菜日常 - 自用脚本 - 安卓手机 - Auto.Js  
 ===========================
-视频演示地址：https://www.bilibili.com/video/BV13V411e7eQ?from=search&seid=13344823194853301640
+视频演示地址：https://www.bilibili.com/video/BV13V411e7eQ?from=search&seid=13344823194853301640（这个换班的过程被我剪掉了）
 
 说明：大部分为`识图点击`，小部分是`固定坐标点击`，`mrfz.rar`为 `识图/找图` 所需的图片的压缩包
 ****
